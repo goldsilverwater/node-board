@@ -1,0 +1,22 @@
+{
+  "name": "board",
+  "version": "1.0.0",
+  "description": "mongoDB, node , vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldsilverwater/node-board.git"
+  },
+  "author": "goldsilverwater",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goldsilverwater/node-board/issues"
+  },
+  "homepage": "https://github.com/goldsilverwater/node-board#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
